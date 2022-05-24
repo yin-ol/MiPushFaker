@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MiPushFaker</string>
+    <string name="xp_mod_desc">伪装机型让普通应用能够正确识别到MiPush，搭配MiPushFramework使用</string>
+</resources>
